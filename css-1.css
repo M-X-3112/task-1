@@ -1,0 +1,171 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.umumi {
+    margin: 30px ;
+    display: inline-block;
+}
+.cof1 {
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid;
+    border-color: rgba(14, 15, 15, 0.196);
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: blueviolet;
+}
+.cof1 img {
+    width: 200px;
+    height: 200px;
+}
+.cof1 p {
+    text-align: left;
+    padding: 5px;
+    font-size: 0.9em;
+    color: white;
+}
+.cof1 button {
+    margin: auto;
+    width: 15px;
+    height: 20px;
+    border: 0.5px solid;
+    border-radius: 2px;  
+    border-color: rgba(0, 0, 0, 0.498);
+    cursor: pointer;
+    margin-left: 5px;
+}
+.cof1 input {
+    margin: auto;
+    width: 15px;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    outline: none;
+}
+#birinci {
+    display: block;
+    background-color: rgb(187, 221, 17);
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    color: blue;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+.cof2 {
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid;
+    border-color: rgba(14, 15, 15, 0.196);
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: red;
+}
+.cof2 img {
+    width: 200px;
+    height: 200px;
+}
+.cof2 p {
+    text-align: left;
+    padding: 5px;
+    font-size: 0.9em;
+    color: white;
+}
+.cof2 button {
+    margin: auto;
+    width: 15px;
+    height: 20px;
+    border: 0.5px solid;
+    border-radius: 2px;  
+    border-color: rgba(0, 0, 0, 0.498);
+    cursor: pointer;
+    margin-left: 5px;
+}
+.cof2 input {
+    margin: auto;
+    width: 15px;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    outline: none;
+}
+#ikinci {
+    display: block;
+    background-color: rgb(6, 244, 197);
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+.cof3 {
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid;
+    border-color: rgba(14, 15, 15, 0.196);
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: green;
+}
+.cof3 img {
+    width: 200px;
+    height: 200px;
+}
+.cof3 p {
+    text-align: left;
+    padding: 5px;
+    font-size: 0.9em;
+    color: white;
+}
+.cof3 button {
+    margin: auto;
+    width: 15px;
+    height: 20px;
+    border: 0.5px solid;
+    border-radius: 2px;  
+    border-color: rgba(0, 0, 0, 0.498);
+    cursor: pointer;
+    margin-left: 5px;
+}
+.cof3 input {
+    margin: auto;
+    width: 15px;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    outline: none;
+}
+#ucuncu {
+    display: block;
+    background-color: rgb(192, 21, 157);
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 5px;
+}
